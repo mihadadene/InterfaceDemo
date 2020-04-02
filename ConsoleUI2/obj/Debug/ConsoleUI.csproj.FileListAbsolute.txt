@@ -1,0 +1,10 @@
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\bin\Debug\ConsoleUI2.exe.config
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\bin\Debug\ConsoleUI2.exe
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\bin\Debug\ConsoleUI2.pdb
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\bin\Debug\DemoLibrary.dll
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\bin\Debug\DemoLibrary.pdb
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\obj\Debug\ConsoleUI2.exe
+C:\Users\mihadadene\source\repos\InterfaceDemo\ConsoleUI2\obj\Debug\ConsoleUI2.pdb
